@@ -1,1 +1,1 @@
-[View Demo](https://trrek.netlify.app/ target="_blank")
+[View Demo](https://rb.gy/g3vs8x)

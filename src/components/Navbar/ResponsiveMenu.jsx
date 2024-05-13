@@ -61,10 +61,10 @@ const ResponsiveMenu = ({ showMenu, setShowMenu }) => {
             </div> 
       </div>
       <div className="footer">
-        <h1>
-          Made with ❤ by <a href="#">Archana</a>{" "}
-        </h1>
-      </div>
+      <h1>
+        Made with ❤ by <a href="https://example.com" role="button">Archana</a>{" "}
+      </h1>
+    </div>
     </div>
   );
 };
